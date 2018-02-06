@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. 
 Here is the static web site. Generated using `ng build --prod --aot`
-Navigate to `https://milanpathak.github.io/angulardemo.github.io/`. The app will automatically reload if you change any of the source files.
+Navigate to https://milanpathak.github.io/angulardemo.github.io/. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
